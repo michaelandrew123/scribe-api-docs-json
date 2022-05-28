@@ -1,0 +1,7 @@
+{
+    "errors": {
+        "customer_ids": [
+            "The customer ids must be a valid JSON string."
+        ]
+    }
+}
